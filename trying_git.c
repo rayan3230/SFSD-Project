@@ -6,5 +6,5 @@ int main (){
     {
         printf("9wd\n");
     }
-    //just trying
+    //just trying..
 }
